@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
@@ -313,10 +307,3 @@ stand_button.grid(row=0, column=2, padx=10)
 
 # Run the application
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
